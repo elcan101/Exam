@@ -192,6 +192,86 @@
     </button>
   </div>
 </nav>
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace YourProjectNamespace.Areas.Admin.Controllers // <-- Diqqət et, Areas.Admin artırıldı
+{
+    [Area("Admin")] // <-- BU SƏTİR MÜTLƏQDİR! Proqrama bunun admin panel koda aid olduğunu deyir.
+    public class ProductController : Controller
+    {
+        private readonly AppDbContext _context; // Baza bağlantısı
+
+        public ProductController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        // READ - Siyahılama
+        public async Task<IActionResult> Index()
+        {
+            var items = await _context.Products.ToListAsync();
+            return View(items);
+        }
+
+        // CREATE - Əlavə etmə (Səhifəni açmaq)
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // CREATE - Əlavə etmə (Bazaya yazdırmaq)
+        [HttpPost]
+        public async Task<IActionResult> Create(Product model)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Products.Add(model);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(model);
+        }
+
+        // UPDATE - Redaktə (Səhifəni açmaq)
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var item = await _context.Products.FindAsync(id);
+            if (item == null) return NotFound();
+            return View(item);
+        }
+
+        // UPDATE - Redaktə (Bazada yeniləmək)
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, Product model)
+        {
+            if (id != model.Id) return NotFound();
+
+            if (ModelState.IsValid)
+            {
+                _context.Products.Update(model);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(model);
+        }
+
+        // DELETE - Silmək
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var item = await _context.Products.FindAsync(id);
+            if (item == null) return NotFound();
+
+            _context.Products.Remove(item);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+    }
+}
     <!-- partial -->
     <div class="container-fluid page-body-wrapper">      
       <!-- partial:partials/_sidebar.html -->
