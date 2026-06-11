@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Migrations\\20260611063625_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Health Center\\Migrations\\20260611063625_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|c:\\users\\cff\\desktop\\exam\\health center\\health center\\health center.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1FA1DE6-C415-40B0-852C-D265618472AF}|Health Center\\Health Center.csproj|solutionrelative:health center\\health center.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:03:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:02:06.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:33:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Health Center\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Health Center\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:15:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Health Center\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Models\\Doctor.cs",
+              "RelativeToolTip": "Health Center\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:52:40.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Health Center\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Health Center\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:46:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Health Center\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:38:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Program.cs",
+              "RelativeDocumentMoniker": "Health Center\\Program.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Program.cs",
+              "RelativeToolTip": "Health Center\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:46:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Health Center\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:34:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:33:27.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:35:58.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Health Center\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Health Center\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:04:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Health Center\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:33:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\appsettings.json",
+              "RelativeDocumentMoniker": "Health Center\\appsettings.json",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\appsettings.json",
+              "RelativeToolTip": "Health Center\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T06:14:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260611063625_createtable.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Migrations\\20260611063625_createtable.cs",
+              "RelativeDocumentMoniker": "Health Center\\Migrations\\20260611063625_createtable.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Migrations\\20260611063625_createtable.cs",
+              "RelativeToolTip": "Health Center\\Migrations\\20260611063625_createtable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:36:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Health Center\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Health Center\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:50:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Health Center\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Health Center\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:48:47.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Health Center",
+              "DocumentMoniker": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Health Center.csproj",
+              "RelativeDocumentMoniker": "Health Center\\Health Center.csproj",
+              "ToolTip": "C:\\Users\\CFF\\Desktop\\Exam\\Health Center\\Health Center\\Health Center.csproj",
+              "RelativeToolTip": "Health Center\\Health Center.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T06:03:36.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
